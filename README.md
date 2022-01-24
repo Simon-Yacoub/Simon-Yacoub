@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering & Game Development 
 - 🌱 I’m currently learning C++ and Unreal Engine
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/simon-yacoub-453578194/
 
 <!---
 Simon-Yacoub/Simon-Yacoub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
